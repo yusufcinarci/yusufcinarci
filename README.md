@@ -1,3 +1,4 @@
+![](https://media-exp1.licdn.com/dms/image/C4D16AQGLpQztVO1CYQ/profile-displaybackgroundimage-shrink_200_800/0/1637312462580?e=1648684800&v=beta&t=2RZONWKApTFWtB389PVb_sr3cfvQds_Eksiziuqp_sk)
 <h1 align="center">Hi 👋, I'm Yusuf Cinarci</h1>
 <h3 align="center">Electrical and Electronics Engineer candidate</h3>
 
