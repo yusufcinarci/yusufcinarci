@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Python**
 
-- 📝 I regularly write articles on [https://fortytwo-42.com/](https://fortytwo-42.com/)
+- 📝 I regularly write articles on [https://fortytwofficial.com/](https://fortytwo-42.com/)
 
 - 📫 How to reach me **yusuf.cinarci@gmail.com**
 
