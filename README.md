@@ -6,11 +6,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yusufcinarci" alt="yusufcinarci" /></a> </p>
 
-- 🔭 I’m currently working on [Forty-Two Website](https://fortytwo-42.com/)
+- 🔭 I’m currently working on [Forty-Two Website](https://fortytwofficial.com/)
 
 - 🌱 I’m currently learning **Python**
 
-- 📝 I regularly write articles on [https://fortytwofficial.com/](https://fortytwo-42.com/)
+- 📝 I regularly write articles on [https://fortytwofficial.com/](https://fortytwofficial.com/)
 
 - 📫 How to reach me **yusuf.cinarci@gmail.com**
 
