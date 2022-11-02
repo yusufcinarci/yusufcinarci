@@ -43,5 +43,4 @@
 
 <img align="left" width="420px" alt="Yusuf Cinarci's Github Stats" src='https://github-readme-stats.vercel.app/api?username=yusufcinarci&show_icons=true&theme=gruvbox'> 
 
-
 <img align="right" alt="Yusuf Cinarci's Top Languages" src='https://github-readme-stats.vercel.app/api/top-langs/?username=yusufcinarci&&langs_count=6&layout=compact&theme=gruvbox'>
