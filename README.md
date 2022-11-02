@@ -1,4 +1,22 @@
 ![github_banner](https://user-images.githubusercontent.com/77057546/198990018-982c739f-77c0-4cf7-bdcd-f1b08424d9cf.png)
+<div align="center">
+<a href="https://github.com/yusufcinarci" target="_blank">
+   <img height="26px" src="https://komarev.com/ghpvc/?username=yusufcinarci&label=Profile%20views&color=7289d9&style=flat" alt="profile views" style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.linkedin.com/in/yusuf-cinarci/" target="_blank">
+   <img height="26px" src="https://img.shields.io/badge/linkedin-%2300acee.png?color=0e76a8&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" style="margin-bottom: 5px;" />
+</a>
+ <a href="https://twitter.com/yusufcin4rci" target="_blank">
+   <img height="26px" src="https://img.shields.io/badge/twitter-%2300acee.png?color=00ACEE&style=for-the-badge&logo=twitter&logoColor=white" alt="twitter" style="margin-bottom: 5px;" />
+</a>
+<a href="yusuf.cinarci@gmail.com" target="_blank">
+   <img height="26px" src="https://img.shields.io/badge/Gmail-dc143c?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" style="margin-bottom: 5px;" />
+   </a>
+<a href="https://discord.gg/https://discord.gg/kw7YB4BT" target="_blank">
+   <img height="26px" src="https://img.shields.io/badge/Discord-7289d9?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" style="margin-bottom: 5px;" />
+   </a>
+
+ </div> 
 
 <h1 align="center">Hi 👋, I'm Yusuf Cinarci</h1>
 <h3 align="center">Electrical and Electronics Engineer candidate</h3>
@@ -23,6 +41,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/yusuf-cinarci" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yusuf-cinarci" height="20" width="30" /></a>
-<a href="https://discord.gg/https://discord.gg/kw7YB4BT" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/kw7YB4BT" height="30" width="40" /></a>
+
 <a href="https://twitter.com/yusufcin4rci" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Twitter-logo.svg/2491px-Twitter-logo.svg.png" alt="yusufcin4rci" height="20" width="30" /></a>
 </p>
