@@ -14,6 +14,9 @@
 <a href="yusuf.cinarci@gmail.com" target="_blank">
    <img height="26px" src="https://img.shields.io/badge/Gmail-dc143c?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" style="margin-bottom: 5px;" />
    </a>
+<a href="https://www.kaggle.com/yusufcinarci" target="_blank">
+   <img height="26px" src="https://img.shields.io/badge/Kaggle-00CCFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" style="margin-bottom: 5px;" />
+   </a>
 <a href="https://discord.gg/zWt6MSkC" target="_blank">
    <img height="26px" src="https://img.shields.io/badge/Discord-7289d9?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" style="margin-bottom: 5px;" />
    </a>
