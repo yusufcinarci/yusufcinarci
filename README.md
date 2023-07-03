@@ -32,13 +32,9 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/api?username=yusufcinarci&show_icons=true&theme=gruvbox" alt="yusufcinarci" /></a> </p>
 
-- 🔭 I’m currently working on [Forty Two Blog Website](https://fortytwofficial.com/)
-
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="380px" max-width="200px" width="175px" align="right">
 
 - 🌱 I’m currently learning **Python**
-
-- 📝 I regularly write articles on [https://fortytwofficial.com/](https://fortytwofficial.com/)
 
 - 📫 How to reach me **yusuf.cinarci@gmail.com**
 
