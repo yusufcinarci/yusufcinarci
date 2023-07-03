@@ -1,6 +1,3 @@
-![github_banner](https://user-images.githubusercontent.com/77057546/198990018-982c739f-77c0-4cf7-bdcd-f1b08424d9cf.png)
-
-
 <h3 align="center">
   Welcome to Yusuf Cinarci's profile!! 
 
