@@ -35,10 +35,3 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="380px" max-width="200px" width="175px" align="right">
 
 
-
-- 🌱 I’m currently learning **Python**
-
-- 📫 How to reach me **yusuf.cinarci@gmail.com**
-
-- 📄 Know about my experiences [https://www.linkedin.com/in/yusuf-cinarci/](https://www.linkedin.com/in/yusuf-cinarci/)
-
