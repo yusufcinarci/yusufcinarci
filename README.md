@@ -1,5 +1,5 @@
 <h3 align="center">
-  Welcome to Yusuf Cinarci's profile!
+  Welcome to Yusuf Cinarci's profile!!
 
   <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="28">
 </h3>
