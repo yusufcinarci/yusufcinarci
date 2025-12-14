@@ -4,8 +4,10 @@
   <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="28">
 </h3>
 
-<p align="center"><img src="https://readme-typing-svg.herokuapp.com/?lines=Electrical-Electronics%20Engineer;Data%20Science%20and%20A.I.%20Enthusiast;&font=Arial%20Code&center=true&width=450&height=45&color=7289d9&vCenter=true&size=22&pause=1500"></a>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Electrical-Electronics%20Engineer;SEO%20Specialist%20%26%20AI%20Enthusiast;&font=Arial%20Code&center=true&width=450&height=45&color=7289d9&vCenter=true&size=22&pause=1500">
 </p>
+
 
 <div align="center">
 <a href="https://github.com/yusufcinarci" target="_blank">
